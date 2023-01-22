@@ -21,7 +21,7 @@ Write the needed HTML code.
 Run the Django server and execute the HTML files.
 
 ## Code:
-
+```
 
 map.html
 
@@ -174,7 +174,7 @@ Vellore Arulmigu Ratnagiri Balamurugan temple is a temple dedicated to the god M
 </body>
 </html>
 
-
+```
 
 ## Output:
 ![OUTPUT](./screenshots/out.png)
